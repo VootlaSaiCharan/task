@@ -1,0 +1,12 @@
+Name:-Balwant Kumar Agri
+Age:-25
+Native:-Uttarakhand
+Graduation:-Btech Infromation Science and Engineering 
+Skills:-Spring Boot,Hibernate,JDBC
+Tools:-PostMan,Git and GitHub,Ecllipse
+Hobies:-collecting old coins,innovative cooking
+Percentage:-
+10th:-76%
+12th:-59%
+Btech :-7.57 Cgpa
+
