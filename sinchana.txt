@@ -3,3 +3,6 @@ edu : BE
 branch :computer Science
 D/B: 24/05/2002
 skills: java ,html,css 
+passout: 2024
+marks:8.85
+
