@@ -1,1 +1,5 @@
-sinchana S gowda
+name sinchana S gowda
+edu : BE
+branch :computer Science
+D/B: 24/05/2002
+skills: java ,html,css 
